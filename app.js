@@ -1,0 +1,1 @@
+var ngView = angular.module('ngView', ['ui', 'ui.directives', 'MMMAppModule'], function($routeProvider, $locationProvider) {
